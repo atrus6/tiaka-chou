@@ -1,0 +1,12 @@
+Taika Chou is a nethack inspired game with gestural magic casting.
+
+You move down the levels of a maze, fighting monsters and grabbing
+loot for the final treasure.
+
+You cast magic by holding CTRL and moving your mouse in various patterns.
+The closer your mouse drawn patterns are to the predefined spells, the
+more powerful the magic is cast. Terribly drawn spells will hurt the
+user.
+
+Right now only generates Voxel based mazes and has a single spider that
+moves randomly around.
